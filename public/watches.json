@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "brand": "Rolex",
+        "price": 5000,
+        "photo": "https://i.ibb.co/5TNK78F/vvs-KRN2k-U9e1s-unsplash-1.jpg",
+        "details": "Stainless steel case with automatic movement. Water-resistant up to 100 meters."
+    },
+    {
+        "id": 2,
+        "brand": "TAG Heuer",
+        "price": 3500,
+        "photo": "https://i.ibb.co/fpH3Mf8/daniel-hay-8w4-Vc-Lfa-Q8-unsplash.jpg",
+        "details": "Swiss-made chronograph watch with a leather strap and sapphire crystal."
+    },
+    {
+        "id": 3,
+        "brand": "Omega",
+        "price": 4500,
+        "photo": "https://i.ibb.co/QdyVZJd/pat-taylor-12-V36-G17-Ib-Q-unsplash.jpg",
+        "details": "Moonwatch with a black dial and stainless steel bracelet. Co-Axial escapement movement."
+    },
+    {
+        "id": 4,
+        "brand": "Patek Philippe",
+        "price": 15000,
+        "photo": "https://i.ibb.co/X3hRNkR/daniel-hay-O703kpz-Is-QI-unsplash.jpg",
+        "details": "Luxury watch with a gold case, diamond accents, and a leather strap. Hand-wound movement."
+    },
+    {
+        "id": 5,
+        "brand": "Cartier",
+        "price": 8000,
+        "photo": "https://i.ibb.co/QdyVZJd/pat-taylor-12-V36-G17-Ib-Q-unsplash.jpg",
+        "details": "Elegant watch with a silver dial, Roman numeral markers, and a stainless steel bracelet."
+    },
+    {
+        "id": 6,
+        "brand": "Breitling",
+        "price": 4000,
+        "photo": "https://i.ibb.co/93G8typ/joe-hepburn-mo-Jv-G-1-Aw-MU-unsplash.jpg",
+        "details": "Aviator watch with a black dial, chronograph function, and a stainless steel bracelet."
+    },
+    {
+        "id": 7,
+        "brand": "Audemars Piguet",
+        "price": 20000,
+        "photo": "https://i.ibb.co/xgJMYkG/klickors-moe-le-Of-J2-R1-CIc-unsplash-1.jpg",
+        "details": "Royal Oak Offshore watch with a ceramic case, self-winding movement, and a rubber strap."
+    },
+    {
+        "id": 8,
+        "brand": "Tissot",
+        "price": 1000,
+        "photo": "https://i.ibb.co/Phj3yFL/paul-cuoco-a-Y0-UX6xz-Gik-unsplash.jpg",
+        "details": "Classic watch with a silver dial, date display, and a stainless steel bracelet."
+    },
+    {
+        "id": 9,
+        "brand": "Seiko",
+        "price": 500,
+        "photo": "https://i.ibb.co/PhDh3nT/paul-cuoco-GJZkkk-Kp-Xo-E-unsplash.jpg",
+        "details": "Affordable watch with a black dial, quartz movement, and a nylon strap."
+    },
+    {
+        "id": 10,
+        "brand": "Casio",
+        "price": 100,
+        "photo": "https://i.ibb.co/PhDh3nT/paul-cuoco-GJZkkk-Kp-Xo-E-unsplash.jpg",
+        "details": "Digital watch with multiple functions, including stopwatch, alarm, and backlight."
+    }
+]
